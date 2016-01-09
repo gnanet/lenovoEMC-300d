@@ -30,7 +30,7 @@
 * At "GRUB" heavily press ESC
  * Select **SOHO** if the highlighted item was SOHODeep, then press Enter
  * Follow onscreen info until you see **"Checking to see the if the reset button is pressed or not"**
-   **Press the rear reset button**
+ * **Press the rear reset button**
 * The system should start the firmware upgrade, after that you should see a clean shutdown
 * Boot the system
 * At "GRUB" heavily press ESC
